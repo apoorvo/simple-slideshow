@@ -1,0 +1,10 @@
+.slideshow-container{
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+body{
+    background: black;
+}
