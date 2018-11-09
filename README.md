@@ -50,4 +50,4 @@ Also copy the following buttons after the last image.
 By default the slideshow is 800X600 and has a white 20px solid border but you can either change that in  slideshow.css or apply your own stylesheet by linking it after slideshow.css
 
 ## Licensing
-It's under an GNU Licence.
+It's under a GNU Licence.
